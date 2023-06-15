@@ -1,0 +1,5 @@
+{
+    "user_by_nick": "https://api.wotblitz.eu/wotb/account/list/",
+    "clan_by_user": "https://api.wotblitz.eu/wotb/clans/accountinfo/",
+    "clan_data": "https://api.wotblitz.eu/wotb/clans/info/"
+}
